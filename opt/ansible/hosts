@@ -1,0 +1,2 @@
+[ansible_slave]
+172.31.27.148 ansible_user=root
