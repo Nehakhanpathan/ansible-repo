@@ -1,2 +1,2 @@
 [ansible_slave]
-172.31.27.148 ansible_user=khan ansible_ssh_private_key_file=/home/khan/.ssh/id_ed25519
+172.31.27.148 ansible_user=rizwan ansible_ssh_private_key_file=/home/rizwan/.ssh/id_ed25519
